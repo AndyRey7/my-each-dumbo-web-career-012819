@@ -1,4 +1,5 @@
 def my_each(arr)
   i = 0 
-  while
+  while i < arr.length 
+  
 end
